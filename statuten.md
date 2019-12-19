@@ -1,6 +1,6 @@
-#Verein Interessengemeinschaft “make.human.technology”
+# Verein Interessengemeinschaft “make.human.technology”
 
-#STATUTEN 
+# STATUTEN 
 
 **19.12.2019**
 
