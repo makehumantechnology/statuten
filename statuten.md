@@ -6,6 +6,7 @@
 
 **Art. 1 
 Name**
+
 Unter dem Namen Verein Interessengemeinschaft “make.human.technology” (nachfolgend “der Verein” genannt) besteht ein gemeinnütziger Verein im Sinne der Art. 60 ff des ZGB.             
                     
 **Art. 2
@@ -27,10 +28,12 @@ f)  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu eine
     
 **Art. 3
 Verbindlichkeit der Werte**
+
 Für die Genossenschaft sind diese Werte verbindlich.
 
 **Art. 4
 Zweck**
+
 Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführen. Dabei soll die Genossenschaft folgenden Zweck haben: 
 
 Die Genossenschaft bezweckt in politisch und konfessionell neutraler Weise gemeinsame Selbsthilfe zum Thema “make.human.technology” d.h Technik menschlich machen.
@@ -53,18 +56,22 @@ Als Sitz des Vereins gilt der Mühleweg 1 in 9602 Bazenheid.
 
 **Art. 6
 Mitgliedschaft** 
+
 Mitglied des Vereins können natürliche und juristische Personen durch Unterzeichnung einer Beitrittserklärung werden. Damit ist die Verpflichtung zur Bezahlung von Mitgliederbeiträgen verbunden. Über die Aufnahme entscheidet der Vorstand, er kann die Aufnahme ohne Begründung ablehnen. 
 
 **Beitragshöhe**
+
 Die Festlegung der Beitragshöhe obliegt der Hauptversammlung.
 
 **Haftbarkeit** 
+
 Die Haftung der Mitglieder für die Verbindlichkeiten des Vereins ist ausgeschlossen. 
 
 **Austritt** 
+
 Jedes Mitglied hat das Recht, auf Ende des Kalenderjahres aus dem Verein auszutreten. Die Austrittsmeldung muss vor dem 31. Dezember schriftlich an die Präsidentin, den Präsidenten oder an die Kassierin oder den Kassier erfolgen. 
 
-**Art. 3 
+**Art. 7 
 Vereinsorgane** 
 Die Organe des Vereins sind die folgenden: 
 a) Die Hauptversammlung
@@ -73,7 +80,7 @@ c) Die Rechnungsrevisorinnen und -revisoren
 
 Die Führung des Vereins und die Kommissionsarbeit erfolgen in ehrenamtlicher Tätigkeit. 
 
-**Art. 4**
+**Art. 8**
 Hauptversammlung 
 
 Die Hauptversammlung besteht aus der Gesamtheit aller Mitglieder gemäss Art. 2. 
@@ -108,7 +115,7 @@ hat im ersten Halbjahr zu erfolgen.
 **Abstimmungen/Wahlen**
 Gültige Abstimmungsbeschlüsse bedürfen des absoluten Mehrs. Bei Stimmengleichheit gilt der Stimmentscheid des oder der Vorsitzenden. Bei Wahlen entscheidet im ersten Wahlgang das absolute, dann das relative Mehr und anschliessend das Los. 
 
-**Art. 5
+**Art. 9
 Vorstand**
 
 **Amtsdauer Mitglieder**
@@ -131,15 +138,15 @@ f) Führung eines Mitgliederverzeichnisses
 Ausserhalb des Budgets hat der Vorstand bei unvorhergesehenen Ausgaben zur Sicherstellung des Zwecks Finanzkompetenzen bis zu dem von der Hauptversammlung festgelegten Betrag. 
 Beschlussfähigkeit. Der Vorstand ist beschlussfähig, wenn mindestens 2 Vorstandsmitglieder an den Sitzungen anwesend sind. 
 
-**Art. 6
+**Art. 10
 Rechnungsrevision** 
 Die Rechnungsrevisorinnen und-revisoren prüfen die Jahresrechnung und erstatten der Hauptversammlung schriftlich Bericht. Im Falle das keine Mitgliederbeiträge erhoben werden und das Vereinskapital bei CHF 0.- liegt werden keine Revisoren bestellt und auf ein Revision wird verzichtet. 
 
-**Art. 7
+**Art. 11
 Statutenrevision** 
-Auf Antrag des Vorstandes oder einem Fünftel aller Mitglieder kann die Hauptversammlung Änderungen der Statuten beschliessen. Artikel 9 kann nur auf Antrag des Vorstandes geändert werden. 
+Auf Antrag des Vorstandes oder einem Fünftel aller Mitglieder kann die Hauptversammlung Änderungen der Statuten beschliessen. Artikel 13 kann nur auf Antrag des Vorstandes geändert werden. 
 
-**Art. 8
+**Art. 12
 Auflösung des Vereins**
 Kann der Zweck des Vereins nicht mehr erfüllt werden, ist der Verein automatisch aufgelöst oder auf Antrag des Vorstandes die Hauptversammlung dies mit Dreiviertels-Mehrheit aller anwesenden Mitgliederstimmen beschliesst. Ein Aktivüberschuss muss in jedem Fall einer steuerbefreiten Institution zugeführt werden. 
 
@@ -150,7 +157,7 @@ b) Verwertung der Aktiven des Vereins
 C) Ein Aktivüberschuss geht zweckgebunden in einen Fond, wobei der Zweck auf Antrag des Vorstandes zu bestimmen ist. 
 Es wird auf die Bestellung einer Liquidationskommission verzichtet sofern beim Zeitpunkt der Auflösung in der Vergangenheit noch keine Mitgliederbeiträge erhoben wurden, das Vereinsvermögen bei CHF 0.- liegt und keine finanziellen oder anderweitigen Verpflichtungen vorhanden sind welche eine Auflösung verhindern. 
 
-**Art. 9 
+**Art. 13 
 Übrige Bestimmungen** 
 Im Übrigen gelten die Bestimmungen des ZGB Art. 60 ff. 
 
