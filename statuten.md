@@ -73,84 +73,99 @@ Jedes Mitglied hat das Recht, auf Ende des Kalenderjahres aus dem Verein auszutr
 
 **Art. 7 
 Vereinsorgane** 
+
 Die Organe des Vereins sind die folgenden: 
-a) Die Hauptversammlung
-b) Der Vorstand
-c) Die Rechnungsrevisorinnen und -revisoren 
+* Die Hauptversammlung
+* Der Vorstand
+* Die Rechnungsrevisorinnen und -revisoren 
 
 Die Führung des Vereins und die Kommissionsarbeit erfolgen in ehrenamtlicher Tätigkeit. 
 
-**Art. 8**
-Hauptversammlung 
+**Art. 8
+Hauptversammlung** 
 
-Die Hauptversammlung besteht aus der Gesamtheit aller Mitglieder gemäss Art. 2. 
+Die Hauptversammlung besteht aus der Gesamtheit aller Mitglieder gemäss Art. 7. 
 
 **Stimmrecht** 
+
 Jedes Mitglied hat ein Stimmrecht. Die Vertretung mittels Stimmausweis ist möglich. 
 
 Obliegenheiten 
-a) Wahl der Vorstandsmitglieder 
-b) Wahl einer Präsidentin oder eines Präsidenten und einer Kassierin oder eines Kassiers aus den Mitgliedern des Vorstandes 
-c) Wahl von zwei Rechnungsrevisorinnen oder -revisoren 
-d) Genehmigung des Jahresberichtes, der Jahresrechnung und des Budgets 
-e) Beschlussfassung von Geschäften, die ihr vom Vorstand unterbreitet werden 
-f) jährliche Festlegung der Ausgabenkompetenz des Vorstandes 
-9) Festlegung der Mitgliederbeiträge auf Antrag des Vorstandes 
-h) Revision der Vereinsstatuten 
-i) Beschlussfassung über die Auflösung des Vereins gemäss Art. 9 
+* Wahl der Vorstandsmitglieder 
+* Wahl einer Präsidentin oder eines Präsidenten und einer Kassierin oder eines Kassiers aus den Mitgliedern des Vorstandes 
+* Wahl von zwei Rechnungsrevisorinnen oder -revisoren 
+* Genehmigung des Jahresberichtes, der Jahresrechnung und des Budgets 
+* Beschlussfassung von Geschäften, die ihr vom Vorstand unterbreitet werden 
+* jährliche Festlegung der Ausgabenkompetenz des Vorstandes 
+* Festlegung der Mitgliederbeiträge auf Antrag des Vorstandes 
+* Revision der Vereinsstatuten 
+* Beschlussfassung über die Auflösung des Vereins gemäss Art. 12 
 
 **Einberufung**
+
 Die Hauptversammlung wird vom Vorstand einberufen. Zu einer ausserordentlichen Versammlung kann der Vorstand einladen, wenn es die Geschäfte erfordern oder wenn ein Fünftel aller Mitglieder dies verlangt.
 
 **Einladungen** 
+
 Schriftliche Einladungen mit Traktandenliste sind zehn Tage im Voraus an die Mitglieder zu senden. Für eine ausserordentliche Versammlung kann die Frist auf drei Tage verkürzt werden. 
 
 **Anträge** 
+
 Anträge zuhanden der ordentlichen Hauptversammlung sind bis zum 31. Dezember der Präsidentin oder dem Präsidenten einzureichen. 
 
 **Vereinsjahr** 
+
 Das Vereinsjahr ist das Kalenderjahr. Die ordentliche Hauptversammlung 
 hat im ersten Halbjahr zu erfolgen. 
 
 **Abstimmungen/Wahlen**
+
 Gültige Abstimmungsbeschlüsse bedürfen des absoluten Mehrs. Bei Stimmengleichheit gilt der Stimmentscheid des oder der Vorsitzenden. Bei Wahlen entscheidet im ersten Wahlgang das absolute, dann das relative Mehr und anschliessend das Los. 
 
 **Art. 9
 Vorstand**
 
 **Amtsdauer Mitglieder**
+
 Der Vorstand wird für eine Amtsdauer von drei Jahren gewählt. Wiederwahl ist zulässig. 
 
 **Konstituierung**
+
 Vorbehältlich von Art. 4 Absatz b) konstituiert sich der Vorstand selbst. 
 
 **Zeichnungsbefugnis** 
+
 Rechtsgültig zeichnen zu zweien die Präsidentin oder der Präsident mit der Kassierin oder dem Kassier oder mit der Aktuarin oder dem Aktuar. 
 
 Obliegenheiten 
-a) Leitung des Vereins und Vertretung gegenüber Dritten 
-b) Erstattung des Jahresberichtes, der Jahresrechnung und des Budgets zuhanden der Hauptversammlung
-d) Erstellung der Statuten der Genossenschaft, der Corporate Governance, den Dienstleistungen sowie die Vorbereitung und Überführung in eine Genossenschaft
-e) Aufnahme von Mitgliedern gemäss Art. 2 
-f) Führung eines Mitgliederverzeichnisses 
+* Leitung des Vereins und Vertretung gegenüber Dritten 
+* Erstattung des Jahresberichtes, der Jahresrechnung und des Budgets zuhanden der Hauptversammlung
+* Erstellung der Statuten der Genossenschaft, der Corporate Governance, den Dienstleistungen sowie die Vorbereitung und Überführung in eine Genossenschaft
+* Aufnahme von Mitgliedern gemäss Art. 2 
+* Führung eines Mitgliederverzeichnisses 
 
 **Finanzkompetenz**
+
 Ausserhalb des Budgets hat der Vorstand bei unvorhergesehenen Ausgaben zur Sicherstellung des Zwecks Finanzkompetenzen bis zu dem von der Hauptversammlung festgelegten Betrag. 
 Beschlussfähigkeit. Der Vorstand ist beschlussfähig, wenn mindestens 2 Vorstandsmitglieder an den Sitzungen anwesend sind. 
 
 **Art. 10
 Rechnungsrevision** 
+
 Die Rechnungsrevisorinnen und-revisoren prüfen die Jahresrechnung und erstatten der Hauptversammlung schriftlich Bericht. Im Falle das keine Mitgliederbeiträge erhoben werden und das Vereinskapital bei CHF 0.- liegt werden keine Revisoren bestellt und auf ein Revision wird verzichtet. 
 
 **Art. 11
 Statutenrevision** 
+
 Auf Antrag des Vorstandes oder einem Fünftel aller Mitglieder kann die Hauptversammlung Änderungen der Statuten beschliessen. Artikel 13 kann nur auf Antrag des Vorstandes geändert werden. 
 
 **Art. 12
 Auflösung des Vereins**
+
 Kann der Zweck des Vereins nicht mehr erfüllt werden, ist der Verein automatisch aufgelöst oder auf Antrag des Vorstandes die Hauptversammlung dies mit Dreiviertels-Mehrheit aller anwesenden Mitgliederstimmen beschliesst. Ein Aktivüberschuss muss in jedem Fall einer steuerbefreiten Institution zugeführt werden. 
 
 **Vorgehen** 
+
 Im Falle einer Auflösung des Vereins ernennt die Hauptversammlung auf Vorschlag des Vorstandes eine Liquidationskommission mit folgenden Pflichten: 
 a) Tilgung aller Verpflichtungen 
 b) Verwertung der Aktiven des Vereins 
@@ -159,10 +174,12 @@ Es wird auf die Bestellung einer Liquidationskommission verzichtet sofern beim Z
 
 **Art. 13 
 Übrige Bestimmungen** 
+
 Im Übrigen gelten die Bestimmungen des ZGB Art. 60 ff. 
 
 
 **Inkraftsetzung** 
+
 Die heutige Fassung ist an der Gründungsversammlung des Vereins Interessengemeinschaft “make.human.technology” vom 19. Dezember 2019 angenommen worden und tritt sofort in Kraft. 
 
 Der Präsident: Markus Leutwyler
