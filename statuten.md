@@ -14,17 +14,17 @@ Unsere Werte**
                     
 Nach dem Ideengut der Gründer stellt die Genossenschaft den Menschen in den Mittelpunkt: Sie dient den Menschen und ist gegenüber den Genossenschaftern, Kunden, Mitarbeitenden, Lieferanten, Sozialpartnern, Behörden und der allgemeinen Öffentlichkeit verantwortungsbewusst. In diesem Sinne        
                             
-a)  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen von guter Qualität;            
+1.  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen von guter Qualität;            
                             
-b)  setzt sich die Genossenschaft für eine wettbewerbsorientierte, ethische und umweltgerechte Technologie ein;    
+2.  setzt sich die Genossenschaft für eine wettbewerbsorientierte, ethische und umweltgerechte Technologie ein;    
                             
-c)  setzt sich die Genossenschaft für die Vermittlung von Wissen und für Massnahmen zur Aus- und Weiterbildung aller Menschen ein;            
+3.  setzt sich die Genossenschaft für die Vermittlung von Wissen und für Massnahmen zur Aus- und Weiterbildung aller Menschen ein;            
                             
-d)  versteht sich die Genossenschaft als Brücke zwischen Technik und Mensch;  
+4.  versteht sich die Genossenschaft als Brücke zwischen Technik und Mensch;  
 
-e)  fördert die Genossenschaft das Technikverständnis aller Menschen;     
+5.  fördert die Genossenschaft das Technikverständnis aller Menschen;     
 
-f)  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf Augenhöhe entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
+6.  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf Augenhöhe entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
     
 **Art. 3
 Verbindlichkeit der Werte**
@@ -36,19 +36,19 @@ Zweck**
 
 Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführen. Dabei soll die Genossenschaft folgenden Zweck haben: 
 
-Die Genossenschaft bezweckt in politisch und konfessionell neutraler Weise gemeinsame Selbsthilfe zum Thema “make.human.technology” d.h Technik menschlich machen.
-Die Genossenschaft erbringt Dienstleistungen in diesem Bereich im In- und Ausland.
-Die Genossenschaft verbreitet Wissen für alle Menschen.
-Die Genossenschaft organisiert Anlässe, welche die Exponenten des Themas zusammenbringen.
-Die Genossenschaft organisiert Anlässe, welche das Thema einer breiteren Öffentlichkeit zugänglich machen.
-Die Genossenschaft fördert und pflegt den Erfahrungsaustausch mit wissenschaftlichen und künstlerischen Gesellschaften, Bildungsinstitutionen sowie Einrichtungen zur Förderung von Innovation und Unternehmertum.
-Die Genossenschaft kann Güter zur entgeltlichen und unentgeltlichen Nutzung anbieten.
-Die Genossenschaft kann Güter kaufen, verkaufen oder mieten, soweit es die Erfüllung des Zwecks erfordert.
-Die Güter der Genossenschaft können auch durch Nicht-Genossenschafter zu speziellen Bedingungen genutzt werden.
-Die Genossenschaft kann alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, die mit dem Zweck der Genossenschaft zusammenhängen oder geeignet sind, diesen zu fördern.
-Die Genossenschaft kann Grundstücke im In- und Ausland erwerben, belasten, halten und veräussern. 
-Die Genossenschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmungen im In- und Ausland beteiligen.
-Anteilscheine der Genossenschaft sollen im Grundsatz einer breiten Trägerschaft zur Zeichnung offen stehen. 
+1. Die Genossenschaft bezweckt in politisch und konfessionell neutraler Weise gemeinsame Selbsthilfe zum Thema “make.human.technology” d.h Technik menschlich machen.
+2. Die Genossenschaft erbringt Dienstleistungen in diesem Bereich im In- und Ausland.
+3. Die Genossenschaft verbreitet Wissen für alle Menschen.
+4. Die Genossenschaft organisiert Anlässe, welche die Exponenten des Themas zusammenbringen.
+5. Die Genossenschaft organisiert Anlässe, welche das Thema einer breiteren Öffentlichkeit zugänglich machen.
+6. Die Genossenschaft fördert und pflegt den Erfahrungsaustausch mit wissenschaftlichen und künstlerischen Gesellschaften, Bildungsinstitutionen sowie Einrichtungen zur Förderung von Innovation und Unternehmertum.
+7. Die Genossenschaft kann Güter zur entgeltlichen und unentgeltlichen Nutzung anbieten.
+8. Die Genossenschaft kann Güter kaufen, verkaufen oder mieten, soweit es die Erfüllung des Zwecks erfordert.
+9. Die Güter der Genossenschaft können auch durch Nicht-Genossenschafter zu speziellen Bedingungen genutzt werden.
+10. Die Genossenschaft kann alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, die mit dem Zweck der Genossenschaft zusammenhängen oder geeignet sind, diesen zu fördern.
+11. Die Genossenschaft kann Grundstücke im In- und Ausland erwerben, belasten, halten und veräussern. 
+12. Die Genossenschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmungen im In- und Ausland beteiligen.
+13. Anteilscheine der Genossenschaft sollen im Grundsatz einer breiten Trägerschaft zur Zeichnung offen stehen. 
 
 **Art. 5
 Sitz**
