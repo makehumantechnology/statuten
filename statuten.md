@@ -14,17 +14,16 @@ Unsere Werte**
                     
 Nach dem Ideengut der Gründer stellt die Genossenschaft den Menschen in den Mittelpunkt: Sie dient den Menschen und ist gegenüber den Genossenschaftern, Kunden, Mitarbeitenden, Lieferanten, Sozialpartnern, Behörden und der allgemeinen Öffentlichkeit verantwortungsbewusst. In diesem Sinne        
                             
-1.  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen von guter Qualität;            
+1.  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen im Kontext Mensch-Technik-Organisation;            
                             
 2.  setzt sich die Genossenschaft für eine wettbewerbsorientierte, ethische und umweltgerechte Technologie ein;    
                             
-3.  setzt sich die Genossenschaft für die Vermittlung von Wissen und für Massnahmen zur Aus- und Weiterbildung aller Menschen ein;            
-                            
+3.  setzt sich die Genossenschaft für die Vermittlung von Wissen und für Massnahmen zur Aus- und Weiterbildung aller Menschen ein;                                    
 4.  versteht sich die Genossenschaft als Brücke zwischen Technik und Mensch;  
 
 5.  fördert die Genossenschaft das Technikverständnis aller Menschen;     
 
-6.  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf Augenhöhe entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
+6.  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf "Augenhöhe" entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
     
 **Art. 3
 Verbindlichkeit der Werte**
@@ -42,8 +41,8 @@ Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführe
 4. Die Genossenschaft organisiert Anlässe, welche die Exponenten des Themas zusammenbringen.
 5. Die Genossenschaft organisiert Anlässe, welche das Thema einer breiteren Öffentlichkeit zugänglich machen.
 6. Die Genossenschaft fördert und pflegt den Erfahrungsaustausch mit wissenschaftlichen und künstlerischen Gesellschaften, Bildungsinstitutionen sowie Einrichtungen zur Förderung von Innovation und Unternehmertum.
-7. Die Genossenschaft kann Güter zur entgeltlichen und unentgeltlichen Nutzung anbieten.
-8. Die Genossenschaft kann Güter kaufen, verkaufen oder mieten, soweit es die Erfüllung des Zwecks erfordert.
+7. Die Genossenschaft kann Güter und Dienstleistungen zur entgeltlichen und unentgeltlichen Nutzung anbieten.
+8. Die Genossenschaft kann Güter und Dienstleistungen kaufen, verkaufen oder mieten, soweit es die Erfüllung des Zwecks erfordert.
 9. Die Güter der Genossenschaft können auch durch Nicht-Genossenschafter zu speziellen Bedingungen genutzt werden.
 10. Die Genossenschaft kann alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, die mit dem Zweck der Genossenschaft zusammenhängen oder geeignet sind, diesen zu fördern.
 11. Die Genossenschaft kann Grundstücke im In- und Ausland erwerben, belasten, halten und veräussern. 
@@ -52,7 +51,7 @@ Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführe
 
 **Art. 5
 Sitz**
-Als Sitz des Vereins gilt der Mühleweg 1 in 9602 Bazenheid. 
+Als Sitz des Vereins gilt der Mühliweg 1 in 9602 Bazenheid. 
 
 **Art. 6
 Mitgliedschaft** 
