@@ -186,3 +186,7 @@ Der Präsident: Markus Leutwyler
 Der Kassier: Alfred Rist-Vogt
 
 **19.12.2019**
+
+
+xxxx
+
