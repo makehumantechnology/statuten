@@ -51,7 +51,7 @@ Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführe
 
 **Art. 5
 Sitz**
-Als Sitz des Vereins gilt der Mühliweg 1 in 9602 Bazenheid. 
+Als Sitz des Vereins gilt Winterthur. 
 
 **Art. 6
 Mitgliedschaft** 
