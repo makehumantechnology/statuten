@@ -23,7 +23,7 @@ Nach dem Ideengut der Gründer stellt die Genossenschaft den Menschen in den Mit
 
 5.  fördert die Genossenschaft das Technikverständnis aller Menschen;     
 
-6.  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf "Augenhöhe" entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
+6.  ist die Genossenschaft demokratisch organisiert und bekennt sich zu einer auf "Augenhöhe" entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
     
 **Art. 3
 Verbindlichkeit der Werte**
@@ -35,7 +35,7 @@ Zweck**
 
 Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführen. Dabei soll die Genossenschaft folgenden Zweck haben: 
 
-1. Die Genossenschaft bezweckt in politisch und konfessionell neutraler Weise gemeinsame Selbsthilfe zum Thema “make.human.technology” d.h Technik menschlich machen.
+1. Die Genossenschaft bezweckt in politisch und konfessionell neutraler Weise gemeinsame Selbsthilfe zum Thema “make.human.technology” d.h. Technik menschlich machen.
 2. Die Genossenschaft erbringt Dienstleistungen in diesem Bereich im In- und Ausland.
 3. Die Genossenschaft verbreitet Wissen für alle Menschen.
 4. Die Genossenschaft organisiert Anlässe, welche die Exponenten des Themas zusammenbringen.
@@ -83,7 +83,7 @@ Die Führung des Vereins und die Kommissionsarbeit erfolgen in ehrenamtlicher T�
 **Art. 8
 Hauptversammlung** 
 
-Die Hauptversammlung besteht aus der Gesamtheit aller Mitglieder gemäss Art. 7. 
+Die Hauptversammlung besteht aus der Gesamtheit aller Mitglieder gemäss Art. 6. 
 
 **Stimmrecht** 
 
@@ -114,8 +114,7 @@ Anträge zuhanden der ordentlichen Hauptversammlung sind bis zum 31. Dezember de
 
 **Vereinsjahr** 
 
-Das Vereinsjahr ist das Kalenderjahr. Die ordentliche Hauptversammlung 
-hat im ersten Halbjahr zu erfolgen. 
+Das Vereinsjahr ist das Kalenderjahr. Die ordentliche Hauptversammlung hat im ersten Halbjahr zu erfolgen. 
 
 **Abstimmungen/Wahlen**
 
@@ -130,7 +129,7 @@ Der Vorstand wird für eine Amtsdauer von drei Jahren gewählt. Wiederwahl ist z
 
 **Konstituierung**
 
-Vorbehältlich von Art. 4 Absatz b) konstituiert sich der Vorstand selbst. 
+Vorbehältlich der Ämter-Wahl gemäss Art. 8 konstituiert sich der Vorstand selbst. 
 
 **Zeichnungsbefugnis** 
 
@@ -146,12 +145,15 @@ Obliegenheiten
 **Finanzkompetenz**
 
 Ausserhalb des Budgets hat der Vorstand bei unvorhergesehenen Ausgaben zur Sicherstellung des Zwecks Finanzkompetenzen bis zu dem von der Hauptversammlung festgelegten Betrag. 
-Beschlussfähigkeit. Der Vorstand ist beschlussfähig, wenn mindestens 2 Vorstandsmitglieder an den Sitzungen anwesend sind. 
+
+**Beschlussfähigkeit**
+
+Der Vorstand ist beschlussfähig, wenn mindestens 2 Vorstandsmitglieder an den Sitzungen anwesend sind. 
 
 **Art. 10
 Rechnungsrevision** 
 
-Die Rechnungsrevisorinnen und-revisoren prüfen die Jahresrechnung und erstatten der Hauptversammlung schriftlich Bericht. Im Falle das keine Mitgliederbeiträge erhoben werden und das Vereinskapital bei CHF 0.- liegt werden keine Revisoren bestellt und auf ein Revision wird verzichtet. 
+Die Rechnungsrevisorinnen und -revisoren prüfen die Jahresrechnung und erstatten der Hauptversammlung schriftlich Bericht. Im Falle, dass keine Mitgliederbeiträge erhoben werden und das Vereinskapital bei CHF 0.- liegt, werden keine Revisorinnen bzw. Revisoren bestellt und auf ein Revision wird verzichtet. 
 
 **Art. 11
 Statutenrevision** 
